@@ -55,7 +55,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: East China Normal University
     date_start: 2023-09-01
-    date_end: 2027-06-31
+    date_end: now
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
